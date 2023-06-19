@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Sem3_H\Numder1\bin\Debug\net7.0\Numder1.exe
+C:\Users\User\Desktop\Sem3_H\Numder1\bin\Debug\net7.0\Numder1.deps.json
+C:\Users\User\Desktop\Sem3_H\Numder1\bin\Debug\net7.0\Numder1.runtimeconfig.json
+C:\Users\User\Desktop\Sem3_H\Numder1\bin\Debug\net7.0\Numder1.dll
+C:\Users\User\Desktop\Sem3_H\Numder1\bin\Debug\net7.0\Numder1.pdb
+C:\Users\User\Desktop\Sem3_H\Numder1\obj\Debug\net7.0\Numder1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sem3_H\Numder1\obj\Debug\net7.0\Numder1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sem3_H\Numder1\obj\Debug\net7.0\Numder1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sem3_H\Numder1\obj\Debug\net7.0\Numder1.AssemblyInfo.cs
+C:\Users\User\Desktop\Sem3_H\Numder1\obj\Debug\net7.0\Numder1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sem3_H\Numder1\obj\Debug\net7.0\Numder1.dll
+C:\Users\User\Desktop\Sem3_H\Numder1\obj\Debug\net7.0\refint\Numder1.dll
+C:\Users\User\Desktop\Sem3_H\Numder1\obj\Debug\net7.0\Numder1.pdb
+C:\Users\User\Desktop\Sem3_H\Numder1\obj\Debug\net7.0\Numder1.genruntimeconfig.cache
+C:\Users\User\Desktop\Sem3_H\Numder1\obj\Debug\net7.0\ref\Numder1.dll
